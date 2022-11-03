@@ -74,7 +74,7 @@ img.img-size{
   text-align: left;
   margin-top: 20px;
 }
-.ucsd, .spaces, .major, .dance, .contact{
+.ucsd, .spaces, .major, .dance, .contact, .index_title{
   text-decoration: none;
   color: white;
 }
@@ -100,7 +100,9 @@ img.img-size{
 .num{
   text-align: left;
 }
-
+.index_title:hover{
+  color: crimson;
+}
 
 .ini-look{
   width: 500px;
